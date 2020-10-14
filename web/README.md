@@ -5,6 +5,8 @@
     - yarn add @types/react-router-dom -D
     - yarn add leaflet react-leaflet 
     - yarn add @types/react-leaflet -D
+- Fontes de texto
+    - https://fonts.google.com/
 - Mapa da aplicação
     - mapbox.com
     - docs.mapbox.com/mapbox-gl-js/api/map (estilos de mapa)
