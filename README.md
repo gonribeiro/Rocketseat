@@ -22,6 +22,9 @@ yarn typeorm migration:run
 ``` 
 yarn dev
 ```
+- Com o back ainda executando, acesse a pasta web e mude o nome do arquivo ".env_example" para ".env".
+- Dentro do "env", insira seu token [mapbox](https://www.mapbox.com/) no lugar de "seu_token_mapbox".
+    - Para criar um token, primeiro crie uma conta no site [mapbox](https://www.mapbox.com/), faça login e na sua [página de usuário](https://account.mapbox.com/) copie a "Default public token". Este é o token que você deve informar no "env".
 - Com o back ainda executando, acesse a pasta web e execute (para iniciar o front web):
 ``` 
 yarn start
