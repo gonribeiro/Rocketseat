@@ -2,6 +2,8 @@
 
 # dependencies
 /server/node_modules
+/server/uploads
+/server/src/database/database.sqlite
 /web/node_modules
 /mobile/node_modules
 /.pnp
