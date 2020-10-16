@@ -8,7 +8,7 @@ Happy é uma plataforma que te ajuda a localizar orfanatos com o auxílio de map
 
 <a id="prototipo"></a>
 
-## Protótipo ([Visualizar](https://www.figma.com/file/JrKEg4UvgDLUE21qWZECYM/Happy-Web))
+## Protótipo ([Web](https://www.figma.com/file/JrKEg4UvgDLUE21qWZECYM/Happy-Web) e [Mobile](https://www.figma.com/file/hJMLvYR1J71WnNOlwXmPmi/Happy-Mobile))
 
 ![layout](docs/images/layout.jpg)
 
