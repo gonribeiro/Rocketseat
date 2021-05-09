@@ -1,16 +1,31 @@
 # See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
 
 # dependencies
-/server/node_modules
-/server/uploads/*
-/server/src/database/database.sqlite
-/web/node_modules
-/mobile/node_modules
+/NLW2-Proffy/server/node_modules
+/NLW2-Proffy/server/uploads/*
+/NLW2-Proffy/server/src/database/database.sqlite
+/NLW2-Proffy/web/node_modules
+/NLW2-Proffy/mobile/node_modules
+
+/NLW3-Happy/server/node_modules
+/NLW3-Happy/server/uploads/*
+/NLW3-Happy/server/src/database/database.sqlite
+/NLW3-Happy/web/node_modules
+/NLW3-Happy/mobile/node_modules
+
+/NLW4-Move.it/node_modules
+/NLW5-Podcast/node_modules
+
 /.pnp
 .pnp.js
 
 # testing
 /coverage
+
+# next.js
+/NLW4-Move.it/.next/
+/NLW5-Podcast/.next/
+/out/
 
 # production
 /build
@@ -22,7 +37,12 @@
 .env.test.local
 .env.production.local
 /web/.env
+# vercel
+.vercel
 
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+
+# vercel
+.vercel
