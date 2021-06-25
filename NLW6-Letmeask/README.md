@@ -1,0 +1,2 @@
+- yarn create react-app letmeask --template typescript
+- yarn add firebase
