@@ -9,7 +9,7 @@
 
   <img src="https://img.shields.io/github/stars/gonribeiro/NLW-Rocketseat?label=stars&message=MIT&color=5965E0&labelColor=121214" alt="Stars">
 
-  <img alt="Letmeask" title="Letmeask" src=".github/chat.png" />
+  <img alt="Chat" title="Letmeask" src=".github/chat.png" />
 </p>
 
 ## 🧪 Technologies
@@ -63,7 +63,9 @@ strict: false
 ```
 - yarn add typeorm reflect-metadata sqlite3
 - Crie ormconfig.json e pasta database (veja conteúdo do arquivo e pasta)
+
 <img alt="develop" src=".github/bd.png">
+
 - yarn typeorm migration:create -n CreateSettings
 - yarn typeorm migration:run
 - Instalar extensão SQLite vscode > control + shift + p > open database > selecionar o banco e assim fica disponível no explorer do vscode o sqlite explorer (ou use o beekeper studio)
