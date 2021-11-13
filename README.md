@@ -1,5 +1,5 @@
 <p align="center">
-    <font size="6">Next Level Week - Rocketseat - Projetos</font>
+    <font size="6">Rocketseat - Projetos - Ignite Pro e Next Level Week </font>
 </p>
 
 <p align="center">
@@ -16,6 +16,7 @@
 
 This project was developed using the following technologies:
 
+- IGNITE - Ignews: [ReactJS](https://reactjs.org/), [NextJS](https://nextjs.org/), [TypeScript](https://www.typescriptlang.org/), [SASS](https://sass-lang.com/), [Next-Auth](https://next-auth.js.org/), [Stripe](https://stripe.com/), [FaunaDB](https://fauna.com/), [Prismic CMS](https://prismic.io/);
 - NLW2 - Proffy: [ReactJS](https://reactjs.org), [React Native](https://reactjs.org), [NodeJS](https://reactjs.org) e [TypeScript](https://www.typescriptlang.org/);
 - NLW3 - Happy: ReactJS, React Native, NodeJS e TypeScript;
 - NLW4 - Move it: ReactJS e TypeScript;
