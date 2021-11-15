@@ -11,7 +11,9 @@
 </p>
 
 <h1 align="center">
-    <img alt="Letmeask" title="Letmeask" src=".github/logo.jpg" />
+  <a href="https://ignews-gonribeiro.vercel.app/">https://ignews-gonribeiro.vercel.app/</a>
+  <br /><br />
+  <img alt="Letmeask" title="Letmeask" src=".github/logo.jpg" />
 </h1>
 
 # 🎮 O Projeto
