@@ -16,10 +16,11 @@
 
 This project was developed using the following technologies:
 
-- IGNITE - Ignews: [ReactJS](https://reactjs.org/), [NextJS](https://nextjs.org/), [TypeScript](https://www.typescriptlang.org/), [SASS](https://sass-lang.com/), [Next-Auth](https://next-auth.js.org/), [Stripe](https://stripe.com/), [FaunaDB](https://fauna.com/), [Prismic CMS](https://prismic.io/);
-- NLW2 - Proffy: [ReactJS](https://reactjs.org), [React Native](https://reactjs.org), [NodeJS](https://reactjs.org) e [TypeScript](https://www.typescriptlang.org/);
+- IGNITE - Ignews: [ReactJS](https://reactjs.org/), [NextJS](https://nextjs.org/), [TypeScript](https://www.typescriptlang.org/), [SASS](https://sass-lang.com/), [Next-Auth](https://next-auth.js.org/), [Stripe](https://stripe.com/), [FaunaDB](https://fauna.com/) e [Prismic CMS](https://prismic.io/);
+- IGNITE - DashGo: ReactJS, NextJS, TypeScript, [Chakra-ui](https://chakra-ui.com/), [React Hook Form](https://react-hook-form.com/), [Yup](https://github.com/jquense/yup) e [MirageJS](https://miragejs.com/);
+- NLW2 - Proffy: ReactJS, [React Native](https://reactjs.org), [NodeJS](https://reactjs.org) e [TypeScript](https://www.typescriptlang.org/);
 - NLW3 - Happy: ReactJS, React Native, NodeJS e TypeScript;
 - NLW4 - Move it: ReactJS e TypeScript;
-- NLW5 - Podcastr: ReactJS, [NextJS](https://nextjs.org/) e TypeScript;
+- NLW5 - Podcastr: ReactJS, NextJS e TypeScript;
 - NLW5 - Chat: NodeJS, TypeScript e [WebSockets](https://www.npmjs.com/package/socket.io);
 - NLW6 - Letmeask: ReactJS, TypeScript e [Firebase](https://firebase.google.com/);
