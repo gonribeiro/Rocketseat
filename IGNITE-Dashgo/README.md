@@ -8,7 +8,7 @@
 
 ## O projeto
 
-O projeto de estudo. Dashboard.
+Dashboard.
 
 ## Tecnologias
 
