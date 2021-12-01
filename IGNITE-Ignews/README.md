@@ -51,7 +51,7 @@ Criar conta e configurar os serviços externos:
 Clone do projeto:
 
 ```bash
-$ git clone https://github.com/gonribeiro/NLW-Rocketseat
+$ git clone https://github.com/gonribeiro/Rocketseat
 $ cd Rocketseat\IGNITE-Ignews
 ```
 

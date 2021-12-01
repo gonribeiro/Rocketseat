@@ -34,6 +34,6 @@ $ yarn
 # Execute o back - http://localhost:3333
 $ yarn server
 
-# Execute o front - http://localhost:8080
+# Execute o front - http://localhost:3000
 $ yarn start
 ```
