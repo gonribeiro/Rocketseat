@@ -12,16 +12,19 @@
   <img alt="develop" src=".github/develop.png">
 </p>
 
-## 🧪 Technologies
+## 🎮 Projeto - 🧪 Technologies
 
-This project was developed using the following technologies:
+### IGNITE
 
 - IGNITE - Ignews: [ReactJS](https://reactjs.org/), [NextJS](https://nextjs.org/), [TypeScript](https://www.typescriptlang.org/), [SASS](https://sass-lang.com/), [Next-Auth](https://next-auth.js.org/), [Stripe](https://stripe.com/), [FaunaDB](https://fauna.com/) e [Prismic CMS](https://prismic.io/);
 - IGNITE - DashGo: ReactJS, NextJS, TypeScript, [Chakra-ui](https://chakra-ui.com/), [React Hook Form](https://react-hook-form.com/), [Yup](https://github.com/jquense/yup) e [MirageJS](https://miragejs.com/);
 - IGNITE - UpFi: ReactJS, NextJS, TypeScript, Chakra-ui, FaunaDB, React Query, React Hook Form, [ESLint](https://eslint.org/), [Prettier](https://prettier.io/), [Jest](https://jestjs.io/pt-BR/) e [ImgBB](https://imgbb.com/);
 - IGNITE - SpaceTraveling: ReactJS, NextJS, TypeScript, SASS, Prismic CMS e [Utterances](https://utteranc.es/);
-
 - IGNITE - RocketShoes: ReactJS, Typescript, Axios, [react-icons](https://react-icons.github.io/react-icons/), [react-toastify](https://github.com/fkhadra/react-toastify#readme), [styled-components](https://styled-components.com/) e [polished](https://polished.js.org/)
+- IGNITE - GoRestaurant: ReactJS, Typescript, Axios, React-Icons, Styled-Components e [React Modal](https://github.com/reactjs/react-modal)
+
+
+### Next Level Weekend
 
 - NLW2 - Proffy: ReactJS, [React Native](https://reactjs.org), [NodeJS](https://reactjs.org) e [TypeScript](https://www.typescriptlang.org/);
 - NLW3 - Happy: ReactJS, React Native, NodeJS e TypeScript;
