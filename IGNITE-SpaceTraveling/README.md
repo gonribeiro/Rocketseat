@@ -57,7 +57,7 @@ Para implementações com ReactJS está Issue pode ajudar: [Utteranc com ReactJS
 # Execute o comando git clone para realizar o clone do repositório
 $ git clone https://github.com/gonribeiro/Rocketseat.git
 # Entre na pasta do repositório clonado
-$ cd NLW-Rocketseat\IGNITE-SpaceTraveling
+$ cd Rocketseat\IGNITE-SpaceTraveling
 ```
 
 # **Iniciando o projeto**

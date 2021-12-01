@@ -32,7 +32,7 @@ Clone the project and access the folder.
 
 ```bash
 $ git clone https://github.com/gonribeiro/NLW-Rocketseat
-$ cd NLW-Rocketseat\NLW6-Letmeask
+$ cd Rocketseat\NLW6-Letmeask
 ```
 
 Follow the steps below:

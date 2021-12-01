@@ -26,7 +26,7 @@ Clone the project and access the folder.
 
 ```bash
 $ git clone https://github.com/gonribeiro/NLW-Rocketseat
-$ cd NLW-Rocketseat\NLW5-Chat
+$ cd Rocketseat\NLW5-Chat
 ```
 
 Follow the steps below:

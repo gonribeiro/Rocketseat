@@ -52,7 +52,7 @@ Clone do projeto:
 
 ```bash
 $ git clone https://github.com/gonribeiro/NLW-Rocketseat
-$ cd NLW-Rocketseat\IGNITE-Ignews
+$ cd Rocketseat\IGNITE-Ignews
 ```
 
 Iniciando o projeto:

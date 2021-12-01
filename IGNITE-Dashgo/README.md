@@ -27,7 +27,7 @@ Dashboard.
 # Execute o comando git clone para realizar o clone do repositório
 $ git clone https://github.com/gonribeiro/Rocketseat.git
 # Entre na pasta do repositório clonado
-$ cd NLW-Rocketseat\IGNITE-Dashgo
+$ cd Rocketseat\IGNITE-Dashgo
 ```
 
 ### **Iniciando o projeto**
