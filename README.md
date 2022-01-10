@@ -15,7 +15,7 @@
 ## 🎮 Projeto - 🧪 Technologies
 
 ### IGNITE
-#### ReactJS
+#### ReactJS ([Desafios](https://www.notion.so/Trilha-ReactJS-cbbe964f6bba40788fdc5ecd345afe69))
 
 - Ignews: [ReactJS](https://reactjs.org/), [NextJS](https://nextjs.org/), [TypeScript](https://www.typescriptlang.org/), [SASS](https://sass-lang.com/), [Next-Auth](https://next-auth.js.org/), [Stripe](https://stripe.com/), [FaunaDB](https://fauna.com/) e [Prismic CMS](https://prismic.io/);
 - DashGo: ReactJS, NextJS, TypeScript, [Chakra-ui](https://chakra-ui.com/), [React Hook Form](https://react-hook-form.com/), [Yup](https://github.com/jquense/yup) e [MirageJS](https://miragejs.com/);
@@ -24,7 +24,7 @@
 - RocketShoes: ReactJS, Typescript, Axios, [react-icons](https://react-icons.github.io/react-icons/), [react-toastify](https://github.com/fkhadra/react-toastify#readme), [styled-components](https://styled-components.com/) e [polished](https://polished.js.org/)
 - GoRestaurant: ReactJS, Typescript, Axios, React-Icons, Styled-Components e [React Modal](https://github.com/reactjs/react-modal)
 
-#### NodeJS
+#### NodeJS ([Desafios](https://www.notion.so/Trilha-Node-js-ffcf7eade7594e0ba1f3932fab73a130))
 
 - Rentx: Express, TypeORM, Swagger
 - Serverless: [Node.js](https://nodejs.org/en/), Typescript, [Serverless Framework](serverless.com/) e [Amazon Lambda](https://aws.amazon.com/pt/lambda/)
