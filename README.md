@@ -27,7 +27,13 @@
 #### NodeJS ([Desafios](https://www.notion.so/Trilha-Node-js-ffcf7eade7594e0ba1f3932fab73a130))
 
 - Rentx: Express, TypeORM, Swagger
+- FinAPI
 - Serverless: [Node.js](https://nodejs.org/en/), Typescript, [Serverless Framework](serverless.com/) e [Amazon Lambda](https://aws.amazon.com/pt/lambda/)
+
+#### ReactNative
+
+- GoFinance
+- GoRentx
 
 ### Next Level Weekend
 
